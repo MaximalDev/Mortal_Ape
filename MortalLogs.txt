@@ -1,3 +1,4 @@
-Alpha testing! 
+Early testing has started!
 
-[TimeStamp: 07/25/24, 00:00]
+Please note, this game is unfinished, the current version you are on, nicknamed 0.1_EARLY_TEST is unfinished and barebones. It contains the basics, but has bugs that have been yet to be fixed.
+Bugs such as: Hand's connecting joint moves unnaturally, Names can't be updated properly, Colors don't sync when in rooms, and so on.
